@@ -22,15 +22,9 @@ Step 5: Test your pipeline
 
 ## Additional Resources
 
-Nirmata series on Kubernetes 
-(https://www.nirmata.com/2018/03/03/kubernetes-for-developers-part-2-replica-sets-and-deployments/)
+Nirmata series on Kubernetes
 Testdriven: Flask + Vue + Kubernetes
-(https://github.com/testdrivenio/flask-vue-kubernetes)
 Flask Postgres Kubernetes Workshop
-(https://github.com/lihan/flask-postgres-kubernetes-workshop)
 Kops
-(https://github.com/kubernetes/kops/blob/master/docs/aws.md)
 How to Create a Kubernetes Cluster on AWS in Few Minutes 
-(https://medium.com/containermind/how-to-create-a-kubernetes-cluster-on-aws-in-few-minutes-89dda10354f4)
 CI/CD with Jenkins, Docker and Kubernetes on AWS
-(https://medium.com/@Thegaijin/ci-cd-with-jenkins-docker-and-kubernetes-26932c3a1ea)
