@@ -3,11 +3,11 @@
 ## Introduction
 
 The Docker container is deployed to a Kubernetes cluster.Use Blue/Green Deployment or a Rolling Deployment successfully.
-Step 1: Propose and Scope the Project
-Step 2: Use Jenkins, and implement blue/green or rolling deployment.
-Step 3: Pick AWS Kubernetes as a Service, or build your own Kubernetes cluster.
-Step 4: Build your pipeline
-Step 5: Test your pipeline
+* Step 1: Propose and Scope the Project
+* Step 2: Use Jenkins, and implement blue/green or rolling deployment.
+* Step 3: Pick AWS Kubernetes as a Service, or build your own Kubernetes cluster.
+* Step 4: Build your pipeline
+* Step 5: Test your pipeline
 
 ## Technologies
 
@@ -22,9 +22,9 @@ Step 5: Test your pipeline
 
 ## Additional Resources
 
-Nirmata series on Kubernetes
-Testdriven: Flask + Vue + Kubernetes
-Flask Postgres Kubernetes Workshop
-Kops
-How to Create a Kubernetes Cluster on AWS in Few Minutes 
-CI/CD with Jenkins, Docker and Kubernetes on AWS
+* Nirmata series on Kubernetes
+* Testdriven: Flask + Vue + Kubernetes
+* Flask Postgres Kubernetes Workshop
+* Kops
+* How to Create a Kubernetes Cluster on AWS in Few Minutes 
+* CI/CD with Jenkins, Docker and Kubernetes on AWS
